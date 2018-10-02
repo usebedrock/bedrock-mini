@@ -1,6 +1,8 @@
 ## Bedrock Mini
 
-### A gulp workflow that does Pug, SCSS, browsersync
+**New version: now rewritten using the brand new Gulp 4 release**
+
+### A gulp workflow that does Pug, SCSS and Browsersync
 
 One step up from <a href="http://codepen.io">Codepen</a> - work in your local environment using the handiness of Pug for templating, SCSS with autoprefixing and BrowserSync.
 
