@@ -1,6 +1,6 @@
 ## Bedrock Mini
 
-**New version: now rewritten using the brand new Gulp 4 release**
+**New version: now rewritten using the brand new Gulp 4 release. Faster & less code overhead.**
 
 ### A gulp workflow that does Pug, SCSS and Browsersync
 
