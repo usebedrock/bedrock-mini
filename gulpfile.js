@@ -54,9 +54,6 @@ function copyScripts() {
     .pipe(gulp.dest(paths.scripts.dest));
 }
 
-// gulp v4
-
-
 function clean(cb) {
   exports.clean = del.bind(null, ['dist']);
   cb();
